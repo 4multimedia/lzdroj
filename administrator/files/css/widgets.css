@@ -1,0 +1,39 @@
+.languages-dropdowns {
+	position:absolute;
+	top:10px;
+	right:10px;
+	font-size:12px;
+}
+.languages-dropdowns .dropdown-menu {
+	border:1px solid #ddd;
+}
+.languages-dropdowns .dropdown-menu,
+.languages-dropdowns button,
+.languages-dropdowns .dropdown-menu a {
+	font-size:12px;
+}
+.languages-dropdowns button.btn {
+	background:#e2e9f0;
+	border:1px solid #ccd3d9;
+}
+.languages-dropdowns button,
+.languages-dropdowns .dropdown-menu a {
+	position:relative;
+	padding-left:35px;
+	line-height:22px;
+}
+.languages-dropdowns .dropdown-menu li:first-child {
+	border-top:1px solid #eee;
+}
+.languages-dropdowns .dropdown-menu li {
+	border-bottom:1px solid #eee;
+}
+.languages-dropdowns button img,
+.languages-dropdowns .dropdown-menu a img {
+	position: absolute;
+	top:10px;
+	left:10px;
+}
+.languages-dropdowns button img {
+	top:12px;
+}

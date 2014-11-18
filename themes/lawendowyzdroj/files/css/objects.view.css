@@ -1,0 +1,106 @@
+.object .left {
+	width:743px;
+}
+.object .left h2 {
+	margin:0;
+	color:#9b3858;
+	font-family:Georgia;
+	font-size:27px;
+	text-transform:uppercase;
+}
+.object .left h3 {
+	line-height:35px;
+	font-size:15px;
+	color:#666666;
+	font-family:Georgia;
+	margin:0;
+	text-transform:uppercase;
+}
+.object .left .amenities-box {
+	border-top:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+	padding:8px 0;
+}
+.object .left .amenities-box .amenities {
+	float:left;
+	margin:0 0 0 29px;
+}
+.object .left .amenities-box .first {
+	margin:0;
+}
+.object .left .info {
+	line-height:56px;
+	height:56px;
+	font-size:12px;
+	color:#782623;
+	text-transform:uppercase;
+}
+.object .left .info span {
+	margin:0 35px 0 0;
+	display: inline-block;
+}
+.object .left .info b {
+	font-size:14px;
+	font-weight:normal;
+	color:#2c1211;
+	font-family:Georgia;
+}
+.object .left .summary {
+	font-family:Georgia;
+	line-height:22px;
+	font-size:14px;
+	color:#666666;
+}
+.object .left .read-more {
+	text-align:right;
+}
+.object .left .read-more a:link,
+.object .left .read-more a:visited,
+.object .left .read-more a:hover {
+	text-transform:uppercase;
+	color:#2c1211;
+	font-size:14px;
+	text-decoration:none;
+}
+.object .left .comment {
+	font-family:Georgia;
+	font-size:13px;
+	color:#464646;
+}
+.object .left .comment .text {
+	min-height:72px;
+	padding:0 0 0 105px;
+	background:url("../img/bg_comment.png") 12px 0 no-repeat;
+}
+.object .left .comment p {
+	font-size:18px;
+	margin:0;
+	color:#5b1880;
+	height:37px;
+	line-height:37px;
+	text-transform:uppercase;
+	background:url("../img/line_gray.gif") left center repeat-x;
+}
+.object .left .comment p span {
+	background:#fff;
+	padding:0 12px 0 0;
+	font-style:normal;
+}
+.object .left .comment span {
+	font-style:italic;
+}
+.object .left .comment em {
+	font-size:11px;
+	display: block;
+	font-style:normal;
+	margin:6px 0 0 0;
+}
+.object .left .comment .read-more {
+	border-top:2px solid #ccc;
+	border-bottom:2px solid #ccc;
+	padding:5px 0 20px 0;
+}
+.object .left .comment .read-more a {
+	font-size:11px;
+	color:#5a157f;
+}

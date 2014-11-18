@@ -1,0 +1,11 @@
+.fieldset-hide {
+	display:none;
+}
+.form-buttons {
+	background:#eee;
+	margin:15px 0 0 0;
+	padding:10px 0;
+}
+.form-buttons .col-md-offset-2 {
+	padding:0 5px;
+}

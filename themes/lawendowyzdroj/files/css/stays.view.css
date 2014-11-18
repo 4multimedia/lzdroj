@@ -1,0 +1,213 @@
+.left {
+	width:730px;
+}
+.stays {
+	border:1px solid #547088;
+	font-family:Georgia;
+	position: relative;
+	margin:0 0 20px 0;
+	background:#ffffff;
+}
+.stays .title {
+	background:url("../img/bg_blue_title.gif") top left repeat-x;
+	min-height:37px;
+	color:#fff;
+	text-shadow:1px 1px rgba(0,0,0,.5);
+	position: relative;
+}
+.stays .subtitle {
+	margin:17px 20px 0 17px;
+	border-bottom:2px solid #ccc;
+	padding:0 0 10px 0;
+	position: relative;
+}
+.stays .subtitle h3 {
+	font-size:16px;
+	color:#666666;
+	margin:0;
+}
+.stays .title h2 {
+	margin:0;
+	padding:10px 0 0 20px;
+	font-size:17px;
+}
+.stays .subtitle .period {
+	top:0;
+	right:0;
+	font-size:15px;
+	position: absolute;
+	font-weight:normal;
+}
+.stays .stays-left {
+	margin:17px 0 0 17px;
+	float:left;
+	width:239px;
+}
+.stays .stays-left .thumb {
+	border:5px solid #fff;
+	outline:1px solid #d4d4d4;
+	background:#ebebeb;
+	height:153px;
+}
+.stays .options {
+	height:24px;
+	line-height:24px;
+	margin:7px 0 0 0;
+	font-family:Arial;
+}
+.stays .options a:link,
+.stays .options a:visited,
+.stays .options a:hover {
+	width:150px;
+	display: block;
+	line-height:24px;
+	border-radius:4px;
+	float:left;
+	font-size:10px;
+	text-transform:uppercase;
+	color:#fff;
+	letter-spacing:-0.5px;
+	text-align: center;
+	text-decoration:none;
+}
+.stays .options .note {
+	background:url("../img/bg_note_short.gif") top left no-repeat;
+	width:78px;
+	height:24px;
+	float:right;
+}
+.stays .options .note span {
+	widtH:39px;
+	font-weight:bold;
+	color:#fff;
+	display: block;
+	float:left;
+	text-align:center;
+	font-size:11px;
+	font-family:Arial;
+}
+.stays .stays-right {
+	width:380px;
+	margin:17px 20px 0 0;
+	float:right;
+	height:183px;
+	position:relative;
+}
+.stays .stays-right ul.tabs {
+	display: table;
+	height:32px;
+	line-height:32px;
+	margin:0;
+	padding:0;
+	list-style:none;
+	margin:0 0 15px 0;
+}
+.stays .stays-right ul.tabs li {
+	display:inline-table;
+	padding:0 14px;
+	font-size:13px;
+	text-transform:uppercase;
+	border:1px solid #cccccc;
+	background:#f4f4f4;
+	-webkit-box-shadow:inset 0 0 5px 5px #dddddd;
+	box-shadow:inset 0 0 5px 5px #dddddd;
+}
+.stays .stays-right ul.tabs li a:link,
+.stays .stays-right ul.tabs li a:visited,
+.stays .stays-right ul.tabs li a:hover {
+	color:#6e6e6e;
+	text-decoration:none;
+}
+.stays .stays-right ul.tabs li.active {
+	background:#6b338a;
+	-webkit-box-shadow:inset 0 0 5px 5px #582275;
+	box-shadow:inset 0 0 5px 5px #582275;
+	border:1px solid #5b1680;
+}
+.stays .stays-right ul.tabs li.active a:link,
+.stays .stays-right ul.tabs li.active a:visited,
+.stays .stays-right ul.tabs li.active a:hover {
+	color:#fff;
+}
+.stays .description {
+	font-size:13px;
+	color:#929292;
+	line-height:20px;
+	font-style:italic;
+	display:none;
+}
+.stays .features ul {
+	margin:0;
+	padding:0;
+	font-size:12px;
+	color:#929292;
+	list-style:none;
+}
+.stays .features ul li {
+	padding:0 0 0 20px;
+	line-height:19px;
+	font-style:italic;
+	position: relative;
+}
+.stays .features ul li i {
+	position: absolute;
+	left:3px;
+	top:0;
+	color:#bf1379;
+	display: block;
+	line-height:19px;
+}
+.stays .stays-right .links {
+	height:34px;
+	line-height:34px;
+	position:absolute;
+	bottom:0;
+	width:380px;
+}
+.stays .stays-right .links .price {
+	font-size:13px;
+	font-family:Arial;
+	color:#000;
+	float:left;
+	line-height:24px;
+	height:24px;
+	margin:10px 0 0 0;
+}
+.stays .stays-right .links .price b {
+	font-size:24px;
+	color:#811fb2;
+	font-family:Georgia;
+}
+.stays .stays-right .links a.booking:link,
+.stays .stays-right .links a.booking:visited,
+.stays .stays-right .links a.booking:hover {
+	float:right;
+	display: inline-block;
+	font-size:18px;
+	padding:0 25px;
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#fff;
+	font-family:Arial;
+	text-shadow:1px 1px rgba(0,0,0,.3);
+	margin-top:6px;
+}
+.stays .capacity {
+	margin:10px 0 10px 20px;
+	font-size:16px;
+	color:#a445d3;
+}
+.stays a.more:link,
+.stays a.more:visited,
+.stays a.more:hover {
+	position: absolute;
+	right:20px;
+	bottom:-7px;
+	line-height:14px;
+	font-size:14px;
+	padding:0 10px;
+	background:#fff;
+	color:#8220b1;
+	text-decoration:none;
+	text-transform:uppercase;
+}

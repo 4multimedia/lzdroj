@@ -1,0 +1,1778 @@
+2014/11/15 21:06:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:06:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:07:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:08:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:08:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:09:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:19:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 21:19:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:29:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:29:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 21:29:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:29:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "busko-zdroj".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('busko-zdroj')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/busko-zdroj
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:29:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/busko-zdroj
+---
+2014/11/15 21:29:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 21:29:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 21:54:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 21:54:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 21:54:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 22:09:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 22:09:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 23:41:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 23:41:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 23:42:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 23:42:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 23:42:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/15 23:43:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/15 23:43:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 00:07:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 00:07:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 00:08:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 00:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 00:36:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/index
+---
+2014/11/16 08:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "noclegi".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('noclegi')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/noclegi
+---
+2014/11/16 08:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/noclegi
+---
+2014/11/16 08:06:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 08:06:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 08:45:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 08:45:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 10:51:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/16 10:51:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/16 10:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/16 10:51:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/16 10:51:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 10:51:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 10:51:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 10:59:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "obiekt/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('obiekt/css/boot...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/obiekt/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/obiekt/hotel-anna
+---
+2014/11/16 13:55:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 13:55:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 13:55:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 18:13:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 18:14:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 21:44:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/16 21:44:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/16 21:44:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/16 21:44:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/16 21:45:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/16 22:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/index
+---
+2014/11/16 22:47:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/17 13:53:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/17 13:53:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/17 13:53:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/17 13:53:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/17 13:53:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:24:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/17 19:25:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:25:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:25:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:25:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:25:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:26:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:26:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:27:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:27:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:30:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:31:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:31:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:31:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:32:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:32:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 19:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 22:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/17 22:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/17 22:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/17 22:16:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/17 22:16:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 22:16:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 22:22:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 22:22:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 22:22:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "o-nas".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('o-nas')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/o-nas
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 22:22:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/o-nas
+---
+2014/11/17 22:22:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "kontakt".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('kontakt')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/kontakt
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/o-nas
+---
+2014/11/17 22:22:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/kontakt
+---
+2014/11/17 22:22:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/17 22:25:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 23:23:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 23:23:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 23:24:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "obiekt/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('obiekt/css/boot...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/obiekt/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/obiekt/hotel-anna
+---
+2014/11/17 23:24:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/index
+---
+2014/11/17 23:24:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/17 23:24:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/17 23:58:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 15:00:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 15:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/18 15:00:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/18 15:01:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 15:01:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 16:07:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 16:07:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 16:34:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 16:34:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 16:35:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 16:45:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 17:59:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 17:59:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 17:59:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/turnus-leczniczy/1,intensywny".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/turnus-leczn...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/turnus-leczniczy/1,intensywny
+---
+2014/11/18 17:59:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/turnus-leczniczy/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/turnus-leczn...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/turnus-leczniczy/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnus-leczniczy/1,intensywny
+---
+2014/11/18 19:16:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 19:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 19:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/18 19:16:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/18 19:16:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 19:16:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 20:39:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 20:39:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 20:39:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/18 20:39:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "favicon.ico".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/11/18 20:39:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 20:39:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 20:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 22:19:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/
+---
+2014/11/18 22:19:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 22:19:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 22:19:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---
+2014/11/18 22:19:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/turnusy-lecznicze
+---
+2014/11/18 22:21:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Nie można ustalić żądania "pl/css/bootstrap.min.css".' in /framework/web/CWebApplication.php:286
+Stack trace:
+#0 /framework/web/CWebApplication.php(141): CWebApplication->runController('pl/css/bootstra...')
+#1 /framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /protected/components/WebApplicationEndBehavior.php(26): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('frontend')
+#4 /framework/base/CComponent.php(261): call_user_func_array(Array, Array)
+#5 /index.php(12): CComponent->__call('runEnd', Array)
+#6 /index.php(12): CWebApplication->runEnd('frontend')
+#7 {main}
+REQUEST_URI=/pl/css/bootstrap.min.css
+HTTP_REFERER=http://lawendowyzdroj.4multimedia.pl/pl/noclegi
+---

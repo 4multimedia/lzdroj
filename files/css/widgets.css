@@ -1,0 +1,131 @@
+.panel-widget {
+	border-radius:0;
+	border:none;
+	margin:10px 0 20px 0;
+}
+.panel-yellow .panel-heading {
+	background:#fcbc42;
+	border-radius:0;
+	font-weight:700;
+	color:#fff;
+	text-shadow:1px 1px rgba(0,0,0,0.3);
+	text-transform:uppercase;
+	font-size: 16px;
+	padding:10px 15px;
+}
+ul.category-tree,
+ul.category-tree ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	line-height:28px;
+}
+ul.category-tree li {
+	border-top:1px solid #eee;
+}
+ul.category-tree li:first-child {
+	border-top:none;
+}
+ul.category-tree li.pause {
+	height:30px;
+	border-bottom:none;
+}
+ul.category-tree a:link,
+ul.category-tree a:visited,
+ul.category-tree a:hover {
+	color:#666666;
+	font-size:13px;
+	font-weight:400;
+	text-decoration:none;
+	display: block;
+	padding:0 5px;
+	transition: all 400ms;
+	-webkit-transition: all 400ms;
+	-moz-transition: all 400ms;
+	-o-transition: all 400ms;
+}
+ul.category-tree a:hover {
+	background:#f9f9f9;
+	color:#000;
+}
+ul.category-tree li span {
+	font-size:13px;
+	color:#FF5350;
+}
+ul.category-tree ul li span {
+	font-size:10px;
+	color:#ff928e;
+}
+ul.category-tree ul .active span {
+	color:#FF5350;
+}
+ul.category-tree ul a:link,
+ul.category-tree ul a:visited,
+ul.category-tree ul a:hover {
+	padding-left:20px;
+	color:#666666;
+}
+ul.category-tree ul a.active:link,
+ul.category-tree ul a.active:visited,
+ul.category-tree ul a.active:hover,
+ul.category-tree ul li.active a {
+	color:#000;
+	font-weight:700;
+}
+ul.category-tree ul ul a:link,
+ul.category-tree ul ul a:visited,
+ul.category-tree ul ul a:hover {
+	padding-left:40px;
+}
+ul.category-tree ul a:link,
+ul.category-tree ul a:visited,
+ul.category-tree ul a:hover {
+	font-size:11px;
+}
+
+/* LANGUAGES */
+div#widget-language-select {
+	float:right;
+	position:relative;
+	z-index:999;
+	font-size:11px;
+	height:27px;
+}
+div#widget-language-select span {
+	display:inline;
+	z-index:1100;
+	padding:0 12px;
+	position:absolute;
+	right:0;
+	top:0;
+	white-space:nowrap;
+}
+div#widget-language-select span:hover,
+div#widget-language-select span.active {
+	background:#fff;
+}
+div#widget-language-select ul {
+	position:absolute;
+	right:10px;
+	top:27px;
+	padding:8px 6px 6px 6px;
+	background:#fff;
+	width:180px;
+	z-index:1010;
+	box-shadow:0 0 6px 0 rgba(0, 0, 0, 0.15);
+	display:none;
+}
+div#widget-language-select ul li {
+	clear:both;
+	float:none;
+	display:block;
+}
+div#widget-language-select ul li a:link,
+div#widget-language-select ul li a:visited,
+div#widget-language-select ul li a:hover {
+	border:none;
+	display:block;
+}
+div#widget-language-select ul li a:hover {
+	background:#f9f9f9;
+}

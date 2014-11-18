@@ -1,0 +1,151 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=latin,latin-ext,cyrillic);
+
+HTML {
+    height: 100%;
+}
+BODY, HTML {
+	font-family: 'Open Sans',sans-serif;
+	font-size: 12px;
+	min-height: 100%;
+	position: relative;
+	background:#d9e0e7;
+}
+.container {
+	width:400px;
+	position: relative;
+}
+.form-area {
+	height:390px;
+	position: absolute;
+	top:50%;
+	margin: -200px 0 0 0;
+	width:100%;
+}
+.form-area .alert {
+	position: absolute;
+	top:-60px;
+	left:0;
+	width:370px;
+	margin:0 15px;
+	padding:10px 15px;
+	text-transform: none;
+}
+.form-area header {
+	height:90px;
+	color:#777;
+	text-transform:uppercase;
+}
+.form-area header i {
+	font-size:70px;
+	color:#ced5dc;
+	position: absolute;
+	top:0;
+	right:15px;
+	text-shadow:1px 1px #e7edf3;
+}
+.form-area header h1 {
+	margin:0;
+	font-size:32px;
+	padding:0 0 10px 0;
+	font-weight:400;
+}
+.form-area header h2 {
+	margin:0;
+	font-size:12px;
+	font-weight:300;
+	color:#333;
+}
+.form-area form {
+	background:url('../img/bg.jpg');
+	height:260px;
+	padding:20px 0;
+}
+.form-group {
+	margin:15px 0 0 0;
+}
+p.text {
+	margin:10px 0 0 0;
+	height:45px;
+	line-height:20px;
+	color:#fff;
+}
+.form-group input {
+	font-size:12px;
+	border-radius:0;
+	border:1px solid #000;
+}
+.button .btn {
+	margin:15px 0 0 0;
+	border-radius:0;
+	font-size:12px;
+	text-transform:uppercase;
+	text-shadow:1px 1px rgba(0,0,0,0.3);
+}
+.input-lg {
+	height:40px;
+}
+.form-input {
+	margin:25px -15px 0 -15px;
+	color:#ccc;
+	height:25px;
+}
+.form-input a:link,
+.form-input a:visited,
+.form-input a:hover {
+	
+}
+label {
+	font-weight:300;
+}
+.copyright {
+	line-height:40px;
+	height:40px;
+	text-align: center;
+	color:#777;
+	font-size:11px;
+}
+
+@media screen (max-width: 400px) {
+	.form-area header h1 {
+		font-size:24px;
+	}
+	.form-area header h2 {
+		font-size:11px;
+	}
+	p.text {
+		margin:0;
+		height:55px;
+		font-size:11px;
+		line-height:18px;
+	}
+}
+@media screen (max-width: 600px) {
+	p.text {
+		font-size:12px;
+		line-height:19px;
+	}
+	.form-area .alert {
+		position:relative;
+		top:auto;
+		width:100%;
+		margin:0 0 15px 0;
+	}
+	.form-area header {
+		height:auto;
+		padding:0 0 15px 0;
+	}
+	.form-area header i {
+		bottom:-5px;
+		top:auto;
+		font-size:50px;
+	}
+	.form-area {
+		top:0;
+		margin:30px 0 0 0;
+		position: relative;
+		height:auto;
+	}
+	.container {
+		width:100%;
+	}
+}

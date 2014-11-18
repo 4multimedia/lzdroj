@@ -1,0 +1,77 @@
+.amenities {
+	width:30px;
+	height:29px;
+	background:url("../img/amenities.png") top left no-repeat;	
+}
+.amenities-1 {
+	background-position:0 -29px;
+}
+.amenities-1-active {
+	background-position:0 0;
+}
+.amenities-2 {
+	background-position:-30px -29px;
+}
+.amenities-2-active {
+	background-position:-30px 0;
+}
+.amenities-3 {
+	background-position:-60px -29px;
+}
+.amenities-3-active {
+	background-position:-60px 0;
+}
+.amenities-4 {
+	background-position:-90px -29px;
+}
+.amenities-4-active {
+	background-position:-90px 0;
+}
+.amenities-5 {
+	background-position:-120px -29px;
+}
+.amenities-5-active {
+	background-position:-120px 0;
+}
+.amenities-6 {
+	background-position:-150px -29px;
+}
+.amenities-6-active {
+	background-position:-150px 0;
+}
+.amenities-7 {
+	background-position:-180px -29px;
+}
+.amenities-7-active {
+	background-position:-180px 0;
+}
+.amenities-8 {
+	background-position:-210px -29px;
+}
+.amenities-8-active {
+	background-position:-210px 0;
+}
+.amenities-9 {
+	background-position:-240px -29px;
+}
+.amenities-9-active {
+	background-position:-240px 0;
+}
+.amenities-10 {
+	background-position:-270px -29px;
+}
+.amenities-10-active {
+	background-position:-270px 0;
+}
+.amenities-11 {
+	background-position:-300px -29px;
+}
+.amenities-11-active {
+	background-position:-300px 0;
+}
+.amenities-12 {
+	background-position:-330px -29px;
+}
+.amenities-12-active {
+	background-position:-330px 0;
+}
