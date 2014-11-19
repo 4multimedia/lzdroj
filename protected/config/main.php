@@ -73,7 +73,7 @@ return array(
 			'connectionString' => 'mysql:host=localhost;dbname=14086165_lzdroj',
 			'emulatePrepare' => true,
 			'username' => '14086165_lzdroj',
-			'password' => 'awiola123',
+			'password' => 'password',
 			'charset' => 'utf8',
 			'tablePrefix' => 'demo_',
 		),
