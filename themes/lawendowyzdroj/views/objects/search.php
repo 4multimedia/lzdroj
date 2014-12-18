@@ -10,15 +10,15 @@
 		<?php for($o = 0; $o < count($Objects); $o++) { ?>
 		<div class="item">
 			<div class="title">
-				<h3><?=$Objects[$o]->name;?></h3>
+				<h3><a href="<?=Yii::app()->createUrl("obiekt/".$Objects[$o]->alias);?>"><?=$Objects[$o]->name;?></a></h3>
 				<a href="javascript:;">Ukryj</a>
 			</div>
 			<div class="details">
 				<div class="left">
 					<a href="javascript;;" class="pink">Dodaj do planu podróży</a>
-					<a href="javascript:;" class="violet">Zobacz na mapie</a>
+					<a href="javascript:;" class="violet see-modal-maps">Zobacz na mapie</a>
 					<div class="thumb">
-						<?=Objects::model()->image($Objects[$o]->id, 1, 'crop', 192, 140);?>
+						<a href="<?=Yii::app()->createUrl("obiekt/".$Objects[$o]->alias);?>"><?=Objects::model()->image($Objects[$o]->id, 1, 'crop', 192, 140);?></a>
 					</div>
 				</div>
 				<div class="center">

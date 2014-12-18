@@ -80,23 +80,6 @@
 	font-family:Georgia;
 	text-transform:uppercase;
 }
-.item .details .center .center-top .note .box {
-	background:url("../img/bg_note_short.gif") top left no-repeat;
-	width:78px;
-	height:24px;
-	float:right;
-	margin:0 0 0 20px;
-}
-.item .details .center .center-top .note .box span {
-	widtH:39px;
-	font-weight:bold;
-	color:#fff;
-	display: block;
-	float:left;
-	text-align:center;
-	font-size:13px;
-	font-family:Arial;
-}
 .item .details .center h4 {
 	font-family:Georgia;
 	font-size:19px;

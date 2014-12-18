@@ -1,3 +1,16 @@
+<div class="box-white box-shadow-dark box">
+	<div class="stay-title">
+		<h2><?=$Stay->name;?></h2>
+		<div class="stay-note">
+			Ogólna ocena:
+			<div class="note"><span>0</span><span>0</span></div>
+		</div>
+	</div>
+	<?php $this->widget('application.extensions.widgets.Gallery.gallery', array('type' => 'objects', 'object_id' => $Object->id));?>
+	<div class="clearfix">&nbsp;</div>
+</div>
+
+
 <div class="object">
 	<div>
 	
@@ -60,6 +73,10 @@
 					<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 				</div>
 			</div>
+			
+			<?php $this->widget('application.extensions.widgets.Description.description', array('type' => 'objects', 'object_id' => $Object->id, 'item' => $Object));?>
+			
+			<div id="termsDatepicker"></div>
 		</div>
 	</div>
 </div>

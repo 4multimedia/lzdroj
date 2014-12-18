@@ -9,4 +9,13 @@ jQuery(document).ready(function()
 		$area.find(".tab-content").hide();
 		$area.find("."+$tab).show();
 	});
+	
+	jQuery(".terms-pagination a").click(function()
+	{
+		var page = jQuery(this).text();
+		var offset = page - 1;
+		var id = jQuery(this).closest(".stays").attr("rel").replace("stay-", "");
+		jQuery.post("/ajax/getTerms", {id : id, offset : offset}, function(data) { $(".terms-load").html(data); });
+		return false;
+	});
 });

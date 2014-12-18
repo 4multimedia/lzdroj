@@ -15,12 +15,14 @@ return CMap::mergeArray(
 					'index'=>'site/index',
 					
 					'rejestracja'=>'user/registration',
-					'logowanie'=>'user/login',
+					'<language:(pl|en|de)>/logowanie'=>'user/login',
 					
 					'<language:(pl|en|de)>/noclegi'=>'objects/search',
 					'<language:(pl|en|de)>/turnusy-lecznicze'=>'stays/search',
 					'wynik-wyszukiwania'=>'objects/search',
-					'obiekt/<alias>'=>'objects/view',
+					'<language:(pl|en|de)>/obiekt/<alias>'=>'objects/view',
+					'<language:(pl|en|de)>/turnus-leczniczy/<id:\d+>-<alias>'=>'stays/view',
+					'<language:(pl|en|de)>/zabiegi-lecznicze/1,<alias>'=>'articles/view',
 					
 					'koszyk/dodaj'=>'shop/cartAdd',
 					'realizacja-zamowienia'=>'shop/checkout',

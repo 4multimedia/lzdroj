@@ -1,0 +1,77 @@
+.widget-description {
+	padding:30px 0;
+}
+.widget-description .left-description {
+	width:200px;
+	float:left;
+}
+.widget-description .left-description h4 {
+	font-size:14px;
+	text-transform:uppercase;
+	color:#782724;
+}
+.widget-description .left-description ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.widget-description .left-description ul li {
+	font-size:13px;
+	line-height:21px;
+	position: relative;
+}
+.widget-description .left-description ul li a:link,
+.widget-description .left-description ul li a:visited,
+.widget-description .left-description ul li a:hover {
+	color:#333;
+	padding:0 0 0 20px;
+	text-decoration:none;
+}
+.widget-description .left-description ul li.active a:link,
+.widget-description .left-description ul li.active a:visited,
+.widget-description .left-description ul li.active a:hover {
+	color:#000;
+}
+.widget-description .left-description ul li span.icon {
+	border:1px solid #fff;
+	background:#9b8673;
+	width:12px;
+	height:12px;
+	line-height:9px;
+	position: absolute;
+	top:4px;
+	left:0;
+	-webkit-box-shadow: 0px 0px 4px 0px rgba(139, 139, 139, 1);
+	-moz-box-shadow:    0px 0px 4px 0px rgba(139, 139, 139, 1);
+	box-shadow:         0px 0px 4px 0px rgba(139, 139, 139, 1);
+}
+.widget-description .left-description ul li span.icon i {
+	display:block;
+	color:#fff;
+	font-size:8px;
+	text-align:center;
+	line-height:9px;
+	margin:0;
+	padding:0;
+}
+.widget-description .right-description {
+	float:right;
+	width:480px;
+	font-size:12px;
+	font-family:Georgia;
+	color:#4d4d4d;
+	line-height:19px;
+}
+.widget-description .right-description h4 {
+	font-size:14px;
+	margin-bottom:0;
+	color:#666;
+	text-transform:uppercase;
+	font-family:Arial;
+}
+.widget-description .right-description h5 {
+	font-size:24px;
+	margin-top:5px;
+	font-weight:normal;
+	color:#772623;
+}

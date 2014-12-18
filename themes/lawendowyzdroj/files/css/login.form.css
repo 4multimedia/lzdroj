@@ -1,0 +1,82 @@
+.alert-login-form {
+	font-size:12px;
+}
+.alert-login-form p {
+	font-size:14px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.login-form-box {
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow:    0px 0px 10px 1px rgba(50, 50, 50, 0.2);
+	box-shadow:         0px 0px 10px 1px rgba(50, 50, 50, 0.2);
+	border:10px solid #fff;
+	background:#fafafa;
+	padding:20px 20px 0 20px;
+}
+.login-form-box h2 {
+	font-size:22px;
+	font-family:Georgia;
+	margin:0 0 12px 0;
+	border-bottom:1px solid #ddd;
+	padding:0 0 12px 0;
+}
+.form-item {
+	margin:17px 0 0 0;
+}
+.form-item label {
+	display:inline-block;
+	width:100px;
+	font-weight:normal;
+	font-size:12px;
+	text-align:right;
+	margin:0 15px 0 0;
+	color:#878787;
+}
+.form-item label b {
+	color:#f00;
+}
+.form-item input[type="text"],
+.form-item input[type="password"] {
+	width:305px;
+	padding:8px 10px;
+	font-family:Arial;
+	font-size:12px;
+	border:1px solid #cccccc;
+	border-radius:5px;
+	outline:none;
+	-webkit-box-shadow:inset 0 0 5px 3px #e6e6e6;
+	box-shadow:inset 0 0 5px 3px #e6e6e6;
+	background:#fbfbfb;
+}
+.form-buttons {
+	text-align:right;
+	padding:17px 0 20px 0;
+	position: relative;
+}
+.form-checkbox {
+	position:absolute;
+	line-height:32px;
+	left:117px;
+	font-size:12px;
+}
+.form-buttons input[type="submit"] {
+	color:#fff;
+	font-family:Georgia;
+	padding:5px 12px;
+	border-radius:5px;
+	border:none;
+	text-transform:uppercase;
+	font-size:14px;
+}
+.alert-required-info {
+	background:#eee;
+	padding:5px;
+	font-size:11px;
+	border-radius:5px;
+	margin:15px 0;
+	line-height:12px;
+}
+.alert-required-info b {
+	color:#f00;
+}

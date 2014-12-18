@@ -28,7 +28,7 @@
 						<li><a href="/kontakt">Kontakt</a></li>
 						<li><a href="/pytania">Pytania</a></li>
 						<li><a href="/kreator-podrozy" class="wizard">Kreator podróży</a></li>
-						<li><a href="/logowanie">Zaloguj się</a></li>
+						<li><a href="<?=Yii::app()->createUrl("logowanie");?>">Zaloguj się</a></li>
 						<li><form><input type="text" name="string" placeholder="Szukaj w portalu"><button></button></form></li>
 						<li><a href="#"><img src="<?=Yii::app()->theme->baseUrl;?>/files/img/lang_pl.gif"></a></li>
 					</ul>
